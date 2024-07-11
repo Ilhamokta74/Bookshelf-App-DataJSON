@@ -1,4 +1,23 @@
 {
+  "name": "use-database-json",
+  "version": "1.0.0",
+  "description": "Ini adalah starter project untuk siswa yang sedang mengerjakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilhamokta74/Bookshelf-App-DataJSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilhamokta74/Bookshelf-App-DataJSON/issues"
+  },
+  "homepage": "https://github.com/Ilhamokta74/Bookshelf-App-DataJSON#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
